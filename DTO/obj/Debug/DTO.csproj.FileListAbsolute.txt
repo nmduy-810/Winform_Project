@@ -1,0 +1,15 @@
+C:\Users\nguye\OneDrive\Project_C#_Winform\QuanLyKhachSan_DoAn3\DTO\bin\Debug\DTO.dll
+C:\Users\nguye\OneDrive\Project_C#_Winform\QuanLyKhachSan_DoAn3\DTO\bin\Debug\DTO.pdb
+C:\Users\nguye\OneDrive\Project_C#_Winform\QuanLyKhachSan_DoAn3\DTO\obj\Debug\DTO.csprojResolveAssemblyReference.cache
+C:\Users\nguye\OneDrive\Project_C#_Winform\QuanLyKhachSan_DoAn3\DTO\obj\Debug\DTO.dll
+C:\Users\nguye\OneDrive\Project_C#_Winform\QuanLyKhachSan_DoAn3\DTO\obj\Debug\DTO.pdb
+C:\Users\nguye\OneDrive\Project_C#_Winform\QuanLyKhachSan_DoAn3\QuanLyKhachSan_DoAn3\DTO\bin\Debug\DTO.dll
+C:\Users\nguye\OneDrive\Project_C#_Winform\QuanLyKhachSan_DoAn3\QuanLyKhachSan_DoAn3\DTO\bin\Debug\DTO.pdb
+C:\Users\nguye\OneDrive\Project_C#_Winform\QuanLyKhachSan_DoAn3\QuanLyKhachSan_DoAn3\DTO\obj\Debug\DTO.csprojResolveAssemblyReference.cache
+C:\Users\nguye\OneDrive\Project_C#_Winform\QuanLyKhachSan_DoAn3\QuanLyKhachSan_DoAn3\DTO\obj\Debug\DTO.dll
+C:\Users\nguye\OneDrive\Project_C#_Winform\QuanLyKhachSan_DoAn3\QuanLyKhachSan_DoAn3\DTO\obj\Debug\DTO.pdb
+C:\Users\Windows 10\OneDrive\Project_C#_Winform\QuanLyKhachSan_DoAn3\QuanLyKhachSan_DoAn3\DTO\bin\Debug\DTO.dll
+C:\Users\Windows 10\OneDrive\Project_C#_Winform\QuanLyKhachSan_DoAn3\QuanLyKhachSan_DoAn3\DTO\bin\Debug\DTO.pdb
+C:\Users\Windows 10\OneDrive\Project_C#_Winform\QuanLyKhachSan_DoAn3\QuanLyKhachSan_DoAn3\DTO\obj\Debug\DTO.csprojResolveAssemblyReference.cache
+C:\Users\Windows 10\OneDrive\Project_C#_Winform\QuanLyKhachSan_DoAn3\QuanLyKhachSan_DoAn3\DTO\obj\Debug\DTO.dll
+C:\Users\Windows 10\OneDrive\Project_C#_Winform\QuanLyKhachSan_DoAn3\QuanLyKhachSan_DoAn3\DTO\obj\Debug\DTO.pdb

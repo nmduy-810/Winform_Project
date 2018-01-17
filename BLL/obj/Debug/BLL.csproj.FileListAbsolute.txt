@@ -1,0 +1,99 @@
+C:\Users\nguye\OneDrive\Project_C#_Winform\QuanLyKhachSan_DoAn3\BLL\bin\Debug\BLL.dll
+C:\Users\nguye\OneDrive\Project_C#_Winform\QuanLyKhachSan_DoAn3\BLL\bin\Debug\BLL.pdb
+C:\Users\nguye\OneDrive\Project_C#_Winform\QuanLyKhachSan_DoAn3\BLL\bin\Debug\DAL.dll
+C:\Users\nguye\OneDrive\Project_C#_Winform\QuanLyKhachSan_DoAn3\BLL\bin\Debug\DTO.dll
+C:\Users\nguye\OneDrive\Project_C#_Winform\QuanLyKhachSan_DoAn3\BLL\bin\Debug\DAL.pdb
+C:\Users\nguye\OneDrive\Project_C#_Winform\QuanLyKhachSan_DoAn3\BLL\bin\Debug\DTO.pdb
+C:\Users\nguye\OneDrive\Project_C#_Winform\QuanLyKhachSan_DoAn3\BLL\obj\Debug\BLL.csprojResolveAssemblyReference.cache
+C:\Users\nguye\OneDrive\Project_C#_Winform\QuanLyKhachSan_DoAn3\BLL\obj\Debug\BLL.dll
+C:\Users\nguye\OneDrive\Project_C#_Winform\QuanLyKhachSan_DoAn3\BLL\obj\Debug\BLL.pdb
+C:\Users\nguye\OneDrive\Project_C#_Winform\QuanLyKhachSan_DoAn3\QuanLyKhachSan_DoAn3\BLL\bin\Debug\BLL.dll
+C:\Users\nguye\OneDrive\Project_C#_Winform\QuanLyKhachSan_DoAn3\QuanLyKhachSan_DoAn3\BLL\bin\Debug\BLL.pdb
+C:\Users\nguye\OneDrive\Project_C#_Winform\QuanLyKhachSan_DoAn3\QuanLyKhachSan_DoAn3\BLL\bin\Debug\DAL.dll
+C:\Users\nguye\OneDrive\Project_C#_Winform\QuanLyKhachSan_DoAn3\QuanLyKhachSan_DoAn3\BLL\bin\Debug\DTO.dll
+C:\Users\nguye\OneDrive\Project_C#_Winform\QuanLyKhachSan_DoAn3\QuanLyKhachSan_DoAn3\BLL\bin\Debug\DAL.pdb
+C:\Users\nguye\OneDrive\Project_C#_Winform\QuanLyKhachSan_DoAn3\QuanLyKhachSan_DoAn3\BLL\bin\Debug\DTO.pdb
+C:\Users\nguye\OneDrive\Project_C#_Winform\QuanLyKhachSan_DoAn3\QuanLyKhachSan_DoAn3\BLL\obj\Debug\BLL.csprojResolveAssemblyReference.cache
+C:\Users\nguye\OneDrive\Project_C#_Winform\QuanLyKhachSan_DoAn3\QuanLyKhachSan_DoAn3\BLL\obj\Debug\BLL.dll
+C:\Users\nguye\OneDrive\Project_C#_Winform\QuanLyKhachSan_DoAn3\QuanLyKhachSan_DoAn3\BLL\obj\Debug\BLL.pdb
+C:\Users\nguye\OneDrive\Project_C#_Winform\QuanLyKhachSan_DoAn3\QuanLyKhachSan_DoAn3\BLL\bin\Debug\DevExpress.XtraEditors.v16.1.dll
+C:\Users\nguye\OneDrive\Project_C#_Winform\QuanLyKhachSan_DoAn3\QuanLyKhachSan_DoAn3\BLL\bin\Debug\DevExpress.Utils.v16.1.dll
+C:\Users\nguye\OneDrive\Project_C#_Winform\QuanLyKhachSan_DoAn3\QuanLyKhachSan_DoAn3\BLL\bin\Debug\DevExpress.Printing.v16.1.Core.dll
+C:\Users\nguye\OneDrive\Project_C#_Winform\QuanLyKhachSan_DoAn3\QuanLyKhachSan_DoAn3\BLL\bin\Debug\DevExpress.Data.v16.1.dll
+C:\Users\nguye\OneDrive\Project_C#_Winform\QuanLyKhachSan_DoAn3\QuanLyKhachSan_DoAn3\BLL\bin\Debug\DevExpress.Sparkline.v16.1.Core.dll
+C:\Users\nguye\OneDrive\Project_C#_Winform\QuanLyKhachSan_DoAn3\QuanLyKhachSan_DoAn3\BLL\bin\Debug\DevExpress.Pdf.v16.1.Core.dll
+C:\Users\nguye\OneDrive\Project_C#_Winform\QuanLyKhachSan_DoAn3\QuanLyKhachSan_DoAn3\BLL\bin\Debug\DevExpress.XtraEditors.v16.1.xml
+C:\Users\nguye\OneDrive\Project_C#_Winform\QuanLyKhachSan_DoAn3\QuanLyKhachSan_DoAn3\BLL\bin\Debug\DevExpress.Utils.v16.1.xml
+C:\Users\nguye\OneDrive\Project_C#_Winform\QuanLyKhachSan_DoAn3\QuanLyKhachSan_DoAn3\BLL\bin\Debug\DevExpress.Printing.v16.1.Core.xml
+C:\Users\nguye\OneDrive\Project_C#_Winform\QuanLyKhachSan_DoAn3\QuanLyKhachSan_DoAn3\BLL\bin\Debug\DevExpress.Data.v16.1.xml
+C:\Users\nguye\OneDrive\Project_C#_Winform\QuanLyKhachSan_DoAn3\QuanLyKhachSan_DoAn3\BLL\bin\Debug\DevExpress.Sparkline.v16.1.Core.xml
+C:\Users\nguye\OneDrive\Project_C#_Winform\QuanLyKhachSan_DoAn3\QuanLyKhachSan_DoAn3\BLL\bin\Debug\DevExpress.Pdf.v16.1.Core.xml
+C:\Users\nguye\OneDrive\Project_C#_Winform\QuanLyKhachSan_DoAn3\QuanLyKhachSan_DoAn3\BLL\bin\Debug\de\DevExpress.XtraEditors.v16.1.resources.dll
+C:\Users\nguye\OneDrive\Project_C#_Winform\QuanLyKhachSan_DoAn3\QuanLyKhachSan_DoAn3\BLL\bin\Debug\es\DevExpress.XtraEditors.v16.1.resources.dll
+C:\Users\nguye\OneDrive\Project_C#_Winform\QuanLyKhachSan_DoAn3\QuanLyKhachSan_DoAn3\BLL\bin\Debug\ja\DevExpress.XtraEditors.v16.1.resources.dll
+C:\Users\nguye\OneDrive\Project_C#_Winform\QuanLyKhachSan_DoAn3\QuanLyKhachSan_DoAn3\BLL\bin\Debug\ru\DevExpress.XtraEditors.v16.1.resources.dll
+C:\Users\nguye\OneDrive\Project_C#_Winform\QuanLyKhachSan_DoAn3\QuanLyKhachSan_DoAn3\BLL\bin\Debug\de\DevExpress.Utils.v16.1.resources.dll
+C:\Users\nguye\OneDrive\Project_C#_Winform\QuanLyKhachSan_DoAn3\QuanLyKhachSan_DoAn3\BLL\bin\Debug\es\DevExpress.Utils.v16.1.resources.dll
+C:\Users\nguye\OneDrive\Project_C#_Winform\QuanLyKhachSan_DoAn3\QuanLyKhachSan_DoAn3\BLL\bin\Debug\ja\DevExpress.Utils.v16.1.resources.dll
+C:\Users\nguye\OneDrive\Project_C#_Winform\QuanLyKhachSan_DoAn3\QuanLyKhachSan_DoAn3\BLL\bin\Debug\ru\DevExpress.Utils.v16.1.resources.dll
+C:\Users\nguye\OneDrive\Project_C#_Winform\QuanLyKhachSan_DoAn3\QuanLyKhachSan_DoAn3\BLL\bin\Debug\de\DevExpress.Printing.v16.1.Core.resources.dll
+C:\Users\nguye\OneDrive\Project_C#_Winform\QuanLyKhachSan_DoAn3\QuanLyKhachSan_DoAn3\BLL\bin\Debug\es\DevExpress.Printing.v16.1.Core.resources.dll
+C:\Users\nguye\OneDrive\Project_C#_Winform\QuanLyKhachSan_DoAn3\QuanLyKhachSan_DoAn3\BLL\bin\Debug\ja\DevExpress.Printing.v16.1.Core.resources.dll
+C:\Users\nguye\OneDrive\Project_C#_Winform\QuanLyKhachSan_DoAn3\QuanLyKhachSan_DoAn3\BLL\bin\Debug\ru\DevExpress.Printing.v16.1.Core.resources.dll
+C:\Users\nguye\OneDrive\Project_C#_Winform\QuanLyKhachSan_DoAn3\QuanLyKhachSan_DoAn3\BLL\bin\Debug\de\DevExpress.Data.v16.1.resources.dll
+C:\Users\nguye\OneDrive\Project_C#_Winform\QuanLyKhachSan_DoAn3\QuanLyKhachSan_DoAn3\BLL\bin\Debug\es\DevExpress.Data.v16.1.resources.dll
+C:\Users\nguye\OneDrive\Project_C#_Winform\QuanLyKhachSan_DoAn3\QuanLyKhachSan_DoAn3\BLL\bin\Debug\ja\DevExpress.Data.v16.1.resources.dll
+C:\Users\nguye\OneDrive\Project_C#_Winform\QuanLyKhachSan_DoAn3\QuanLyKhachSan_DoAn3\BLL\bin\Debug\ru\DevExpress.Data.v16.1.resources.dll
+C:\Users\nguye\OneDrive\Project_C#_Winform\QuanLyKhachSan_DoAn3\QuanLyKhachSan_DoAn3\BLL\bin\Debug\de\DevExpress.Sparkline.v16.1.Core.resources.dll
+C:\Users\nguye\OneDrive\Project_C#_Winform\QuanLyKhachSan_DoAn3\QuanLyKhachSan_DoAn3\BLL\bin\Debug\es\DevExpress.Sparkline.v16.1.Core.resources.dll
+C:\Users\nguye\OneDrive\Project_C#_Winform\QuanLyKhachSan_DoAn3\QuanLyKhachSan_DoAn3\BLL\bin\Debug\ja\DevExpress.Sparkline.v16.1.Core.resources.dll
+C:\Users\nguye\OneDrive\Project_C#_Winform\QuanLyKhachSan_DoAn3\QuanLyKhachSan_DoAn3\BLL\bin\Debug\ru\DevExpress.Sparkline.v16.1.Core.resources.dll
+C:\Users\nguye\OneDrive\Project_C#_Winform\QuanLyKhachSan_DoAn3\QuanLyKhachSan_DoAn3\BLL\bin\Debug\de\DevExpress.Pdf.v16.1.Core.resources.dll
+C:\Users\nguye\OneDrive\Project_C#_Winform\QuanLyKhachSan_DoAn3\QuanLyKhachSan_DoAn3\BLL\bin\Debug\es\DevExpress.Pdf.v16.1.Core.resources.dll
+C:\Users\nguye\OneDrive\Project_C#_Winform\QuanLyKhachSan_DoAn3\QuanLyKhachSan_DoAn3\BLL\bin\Debug\ja\DevExpress.Pdf.v16.1.Core.resources.dll
+C:\Users\nguye\OneDrive\Project_C#_Winform\QuanLyKhachSan_DoAn3\QuanLyKhachSan_DoAn3\BLL\bin\Debug\ru\DevExpress.Pdf.v16.1.Core.resources.dll
+C:\Users\Windows 10\OneDrive\Project_C#_Winform\QuanLyKhachSan_DoAn3\QuanLyKhachSan_DoAn3\BLL\bin\Debug\BLL.dll
+C:\Users\Windows 10\OneDrive\Project_C#_Winform\QuanLyKhachSan_DoAn3\QuanLyKhachSan_DoAn3\BLL\bin\Debug\BLL.pdb
+C:\Users\Windows 10\OneDrive\Project_C#_Winform\QuanLyKhachSan_DoAn3\QuanLyKhachSan_DoAn3\BLL\bin\Debug\DAL.dll
+C:\Users\Windows 10\OneDrive\Project_C#_Winform\QuanLyKhachSan_DoAn3\QuanLyKhachSan_DoAn3\BLL\bin\Debug\DTO.dll
+C:\Users\Windows 10\OneDrive\Project_C#_Winform\QuanLyKhachSan_DoAn3\QuanLyKhachSan_DoAn3\BLL\bin\Debug\DevExpress.XtraEditors.v16.1.dll
+C:\Users\Windows 10\OneDrive\Project_C#_Winform\QuanLyKhachSan_DoAn3\QuanLyKhachSan_DoAn3\BLL\bin\Debug\DevExpress.Utils.v16.1.dll
+C:\Users\Windows 10\OneDrive\Project_C#_Winform\QuanLyKhachSan_DoAn3\QuanLyKhachSan_DoAn3\BLL\bin\Debug\DevExpress.Printing.v16.1.Core.dll
+C:\Users\Windows 10\OneDrive\Project_C#_Winform\QuanLyKhachSan_DoAn3\QuanLyKhachSan_DoAn3\BLL\bin\Debug\DevExpress.Data.v16.1.dll
+C:\Users\Windows 10\OneDrive\Project_C#_Winform\QuanLyKhachSan_DoAn3\QuanLyKhachSan_DoAn3\BLL\bin\Debug\DevExpress.Sparkline.v16.1.Core.dll
+C:\Users\Windows 10\OneDrive\Project_C#_Winform\QuanLyKhachSan_DoAn3\QuanLyKhachSan_DoAn3\BLL\bin\Debug\DevExpress.Pdf.v16.1.Core.dll
+C:\Users\Windows 10\OneDrive\Project_C#_Winform\QuanLyKhachSan_DoAn3\QuanLyKhachSan_DoAn3\BLL\bin\Debug\DAL.pdb
+C:\Users\Windows 10\OneDrive\Project_C#_Winform\QuanLyKhachSan_DoAn3\QuanLyKhachSan_DoAn3\BLL\bin\Debug\DTO.pdb
+C:\Users\Windows 10\OneDrive\Project_C#_Winform\QuanLyKhachSan_DoAn3\QuanLyKhachSan_DoAn3\BLL\bin\Debug\DevExpress.XtraEditors.v16.1.xml
+C:\Users\Windows 10\OneDrive\Project_C#_Winform\QuanLyKhachSan_DoAn3\QuanLyKhachSan_DoAn3\BLL\bin\Debug\DevExpress.Utils.v16.1.xml
+C:\Users\Windows 10\OneDrive\Project_C#_Winform\QuanLyKhachSan_DoAn3\QuanLyKhachSan_DoAn3\BLL\bin\Debug\DevExpress.Printing.v16.1.Core.xml
+C:\Users\Windows 10\OneDrive\Project_C#_Winform\QuanLyKhachSan_DoAn3\QuanLyKhachSan_DoAn3\BLL\bin\Debug\DevExpress.Data.v16.1.xml
+C:\Users\Windows 10\OneDrive\Project_C#_Winform\QuanLyKhachSan_DoAn3\QuanLyKhachSan_DoAn3\BLL\bin\Debug\DevExpress.Sparkline.v16.1.Core.xml
+C:\Users\Windows 10\OneDrive\Project_C#_Winform\QuanLyKhachSan_DoAn3\QuanLyKhachSan_DoAn3\BLL\bin\Debug\DevExpress.Pdf.v16.1.Core.xml
+C:\Users\Windows 10\OneDrive\Project_C#_Winform\QuanLyKhachSan_DoAn3\QuanLyKhachSan_DoAn3\BLL\bin\Debug\de\DevExpress.XtraEditors.v16.1.resources.dll
+C:\Users\Windows 10\OneDrive\Project_C#_Winform\QuanLyKhachSan_DoAn3\QuanLyKhachSan_DoAn3\BLL\bin\Debug\es\DevExpress.XtraEditors.v16.1.resources.dll
+C:\Users\Windows 10\OneDrive\Project_C#_Winform\QuanLyKhachSan_DoAn3\QuanLyKhachSan_DoAn3\BLL\bin\Debug\ja\DevExpress.XtraEditors.v16.1.resources.dll
+C:\Users\Windows 10\OneDrive\Project_C#_Winform\QuanLyKhachSan_DoAn3\QuanLyKhachSan_DoAn3\BLL\bin\Debug\ru\DevExpress.XtraEditors.v16.1.resources.dll
+C:\Users\Windows 10\OneDrive\Project_C#_Winform\QuanLyKhachSan_DoAn3\QuanLyKhachSan_DoAn3\BLL\bin\Debug\de\DevExpress.Utils.v16.1.resources.dll
+C:\Users\Windows 10\OneDrive\Project_C#_Winform\QuanLyKhachSan_DoAn3\QuanLyKhachSan_DoAn3\BLL\bin\Debug\es\DevExpress.Utils.v16.1.resources.dll
+C:\Users\Windows 10\OneDrive\Project_C#_Winform\QuanLyKhachSan_DoAn3\QuanLyKhachSan_DoAn3\BLL\bin\Debug\ja\DevExpress.Utils.v16.1.resources.dll
+C:\Users\Windows 10\OneDrive\Project_C#_Winform\QuanLyKhachSan_DoAn3\QuanLyKhachSan_DoAn3\BLL\bin\Debug\ru\DevExpress.Utils.v16.1.resources.dll
+C:\Users\Windows 10\OneDrive\Project_C#_Winform\QuanLyKhachSan_DoAn3\QuanLyKhachSan_DoAn3\BLL\bin\Debug\de\DevExpress.Printing.v16.1.Core.resources.dll
+C:\Users\Windows 10\OneDrive\Project_C#_Winform\QuanLyKhachSan_DoAn3\QuanLyKhachSan_DoAn3\BLL\bin\Debug\es\DevExpress.Printing.v16.1.Core.resources.dll
+C:\Users\Windows 10\OneDrive\Project_C#_Winform\QuanLyKhachSan_DoAn3\QuanLyKhachSan_DoAn3\BLL\bin\Debug\ja\DevExpress.Printing.v16.1.Core.resources.dll
+C:\Users\Windows 10\OneDrive\Project_C#_Winform\QuanLyKhachSan_DoAn3\QuanLyKhachSan_DoAn3\BLL\bin\Debug\ru\DevExpress.Printing.v16.1.Core.resources.dll
+C:\Users\Windows 10\OneDrive\Project_C#_Winform\QuanLyKhachSan_DoAn3\QuanLyKhachSan_DoAn3\BLL\bin\Debug\de\DevExpress.Data.v16.1.resources.dll
+C:\Users\Windows 10\OneDrive\Project_C#_Winform\QuanLyKhachSan_DoAn3\QuanLyKhachSan_DoAn3\BLL\bin\Debug\es\DevExpress.Data.v16.1.resources.dll
+C:\Users\Windows 10\OneDrive\Project_C#_Winform\QuanLyKhachSan_DoAn3\QuanLyKhachSan_DoAn3\BLL\bin\Debug\ja\DevExpress.Data.v16.1.resources.dll
+C:\Users\Windows 10\OneDrive\Project_C#_Winform\QuanLyKhachSan_DoAn3\QuanLyKhachSan_DoAn3\BLL\bin\Debug\ru\DevExpress.Data.v16.1.resources.dll
+C:\Users\Windows 10\OneDrive\Project_C#_Winform\QuanLyKhachSan_DoAn3\QuanLyKhachSan_DoAn3\BLL\bin\Debug\de\DevExpress.Sparkline.v16.1.Core.resources.dll
+C:\Users\Windows 10\OneDrive\Project_C#_Winform\QuanLyKhachSan_DoAn3\QuanLyKhachSan_DoAn3\BLL\bin\Debug\es\DevExpress.Sparkline.v16.1.Core.resources.dll
+C:\Users\Windows 10\OneDrive\Project_C#_Winform\QuanLyKhachSan_DoAn3\QuanLyKhachSan_DoAn3\BLL\bin\Debug\ja\DevExpress.Sparkline.v16.1.Core.resources.dll
+C:\Users\Windows 10\OneDrive\Project_C#_Winform\QuanLyKhachSan_DoAn3\QuanLyKhachSan_DoAn3\BLL\bin\Debug\ru\DevExpress.Sparkline.v16.1.Core.resources.dll
+C:\Users\Windows 10\OneDrive\Project_C#_Winform\QuanLyKhachSan_DoAn3\QuanLyKhachSan_DoAn3\BLL\bin\Debug\de\DevExpress.Pdf.v16.1.Core.resources.dll
+C:\Users\Windows 10\OneDrive\Project_C#_Winform\QuanLyKhachSan_DoAn3\QuanLyKhachSan_DoAn3\BLL\bin\Debug\es\DevExpress.Pdf.v16.1.Core.resources.dll
+C:\Users\Windows 10\OneDrive\Project_C#_Winform\QuanLyKhachSan_DoAn3\QuanLyKhachSan_DoAn3\BLL\bin\Debug\ja\DevExpress.Pdf.v16.1.Core.resources.dll
+C:\Users\Windows 10\OneDrive\Project_C#_Winform\QuanLyKhachSan_DoAn3\QuanLyKhachSan_DoAn3\BLL\bin\Debug\ru\DevExpress.Pdf.v16.1.Core.resources.dll
+C:\Users\Windows 10\OneDrive\Project_C#_Winform\QuanLyKhachSan_DoAn3\QuanLyKhachSan_DoAn3\BLL\obj\Debug\BLL.csprojResolveAssemblyReference.cache
+C:\Users\Windows 10\OneDrive\Project_C#_Winform\QuanLyKhachSan_DoAn3\QuanLyKhachSan_DoAn3\BLL\obj\Debug\BLL.dll
+C:\Users\Windows 10\OneDrive\Project_C#_Winform\QuanLyKhachSan_DoAn3\QuanLyKhachSan_DoAn3\BLL\obj\Debug\BLL.pdb

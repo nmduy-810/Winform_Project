@@ -1,0 +1,1076 @@
+<?xml version="1.0"?>
+<doc>
+    <assembly>
+        <name>DevExpress.Diagram.v16.1.Core</name>
+    </assembly>
+    <members>
+        <member name="T:DevExpress.Diagram.Core.LineJumpPlacement">
+
+            <summary>
+                <para>Specifies which connector lines display jumps in intersections.
+</para>
+            </summary>
+
+        </member>
+        <member name="F:DevExpress.Diagram.Core.LineJumpPlacement.HorizontalLines">
+            <summary>
+                <para>Line jumps are added to horizontal lines.
+</para>
+            </summary>
+
+
+        </member>
+        <member name="F:DevExpress.Diagram.Core.LineJumpPlacement.None">
+            <summary>
+                <para>Line jumps are not shown.
+</para>
+            </summary>
+
+
+        </member>
+        <member name="F:DevExpress.Diagram.Core.LineJumpPlacement.VerticalLines">
+            <summary>
+                <para>Line jumps are added to vertical lines.
+</para>
+            </summary>
+
+
+        </member>
+        <member name="T:DevExpress.Diagram.Core.Layout.SplitToConnectedComponentsMode">
+
+            <summary>
+                <para> </para>
+            </summary>
+
+        </member>
+        <member name="F:DevExpress.Diagram.Core.Layout.SplitToConnectedComponentsMode.AllComponents">
+            <summary>
+                <para> </para>
+            </summary>
+
+
+        </member>
+        <member name="F:DevExpress.Diagram.Core.Layout.SplitToConnectedComponentsMode.NonTrivialComponentsOnly">
+            <summary>
+                <para> </para>
+            </summary>
+
+
+        </member>
+        <member name="T:DevExpress.Diagram.Core.ModifySelectionMode">
+
+            <summary>
+                <para>Lists the values used to specify whether to add or replace the existing selection with selected diagram items.
+</para>
+            </summary>
+
+        </member>
+        <member name="F:DevExpress.Diagram.Core.ModifySelectionMode.AddToSelection">
+            <summary>
+                <para>Selected diagram items are added to the existing selection.
+</para>
+            </summary>
+
+
+        </member>
+        <member name="F:DevExpress.Diagram.Core.ModifySelectionMode.ReplaceSelection">
+            <summary>
+                <para>The existing selection is replaced with selected diagram items.
+</para>
+            </summary>
+
+
+        </member>
+        <member name="T:DevExpress.Diagram.Core.DiagramCommandsBase">
+
+            <summary>
+                <para>Serves as a base for classes providing access to Diagram commands.
+</para>
+            </summary>
+
+        </member>
+        <member name="M:DevExpress.Diagram.Core.DiagramCommandsBase.#ctor(DevExpress.Diagram.Core.IDiagramControl)">
+            <summary>
+                <para>Initializes a new instance of the DiagramCommandsBase class.
+</para>
+            </summary>
+            <param name="diagram">
+		An object implementing the <see cref="T:DevExpress.Diagram.Core.IDiagramControl"/> interface.
+
+            </param>
+
+
+        </member>
+        <member name="F:DevExpress.Diagram.Core.DiagramCommandsBase.BringForwardCommand">
+            <summary>
+                <para>Bring the selected shapes forward.
+</para>
+            </summary>
+            <returns> </returns>
+
+
+        </member>
+        <member name="F:DevExpress.Diagram.Core.DiagramCommandsBase.BringToFrontCommand">
+            <summary>
+                <para>Bring the selected shapes to the front. 
+</para>
+            </summary>
+            <returns> </returns>
+
+
+        </member>
+        <member name="F:DevExpress.Diagram.Core.DiagramCommandsBase.CancelCommand">
+            <summary>
+                <para>Exit the input state (i.e., editing a text within a diagram item) or, if the control is not in the input state, deselect all diagram items.
+</para>
+            </summary>
+            <returns> </returns>
+
+
+        </member>
+        <member name="M:DevExpress.Diagram.Core.DiagramCommandsBase.CanExecute(DevExpress.Diagram.Core.DiagramCommand)">
+            <summary>
+                <para>Gets whether the specified command can be executed in its current state.
+</para>
+            </summary>
+            <param name="command">
+		A <see cref="T:DevExpress.Diagram.Core.DiagramCommand"/> object.
+
+            </param>
+            <returns><b>true</b> if the specified command can be executed; otherwise, <b>false</b>.
+</returns>
+
+
+        </member>
+        <member name="M:DevExpress.Diagram.Core.DiagramCommandsBase.CanExecute``1(DevExpress.Diagram.Core.DiagramCommand{``0},``0)">
+            <summary>
+                <para>Gets whether the specified command can be executed in its current state.
+</para>
+            </summary>
+            <param name="command">
+		A <see cref="T:DevExpress.Diagram.Core.DiagramCommand"/> object.
+
+            </param>
+            <param name="parameter">
+		A command's parameter.
+
+            </param>
+            <returns><b>true</b> if the specified command can be executed; otherwise, <b>false</b>.
+</returns>
+
+
+        </member>
+        <member name="F:DevExpress.Diagram.Core.DiagramCommandsBase.ChangeConnectorTypeCommand">
+            <summary>
+                <para>Change the type of the selected connector.
+</para>
+            </summary>
+            <returns> </returns>
+
+
+        </member>
+        <member name="F:DevExpress.Diagram.Core.DiagramCommandsBase.CopyCommand">
+            <summary>
+                <para>Copy the selected diagram items.
+</para>
+            </summary>
+            <returns> </returns>
+
+
+        </member>
+        <member name="F:DevExpress.Diagram.Core.DiagramCommandsBase.CutCommand">
+            <summary>
+                <para>Remove the selected diagram items and copy them to the clipboard.
+</para>
+            </summary>
+            <returns> </returns>
+
+
+        </member>
+        <member name="F:DevExpress.Diagram.Core.DiagramCommandsBase.DecreaseFontSizeCommand">
+            <summary>
+                <para>Decrease the font size for the text within the selected diagram items.
+</para>
+            </summary>
+            <returns> </returns>
+
+
+        </member>
+        <member name="F:DevExpress.Diagram.Core.DiagramCommandsBase.DeleteCommand">
+            <summary>
+                <para>Remove the selected diagram items.
+</para>
+            </summary>
+            <returns> </returns>
+
+
+        </member>
+        <member name="F:DevExpress.Diagram.Core.DiagramCommandsBase.EditCommand">
+            <summary>
+                <para>Edit the text within the selected shape.
+</para>
+            </summary>
+            <returns> </returns>
+
+
+        </member>
+        <member name="F:DevExpress.Diagram.Core.DiagramCommandsBase.EmptyCommand">
+            <summary>
+                <para> </para>
+            </summary>
+            <returns> </returns>
+
+
+        </member>
+        <member name="M:DevExpress.Diagram.Core.DiagramCommandsBase.Execute(DevExpress.Diagram.Core.DiagramCommand,DevExpress.Diagram.Core.Native.IMouseArgs)">
+            <summary>
+                <para> </para>
+            </summary>
+            <param name="command">
+		 
+            </param>
+            <param name="args">
+		 
+            </param>
+
+
+        </member>
+        <member name="M:DevExpress.Diagram.Core.DiagramCommandsBase.Execute``1(DevExpress.Diagram.Core.DiagramCommand{``0},``0,DevExpress.Diagram.Core.Native.IMouseArgs)">
+            <summary>
+                <para> </para>
+            </summary>
+            <param name="command">
+		 
+            </param>
+            <param name="parameter">
+		 
+            </param>
+            <param name="args">
+		 
+            </param>
+
+
+        </member>
+        <member name="F:DevExpress.Diagram.Core.DiagramCommandsBase.ExportDiagramCommand">
+            <summary>
+                <para> </para>
+            </summary>
+            <returns> </returns>
+
+
+        </member>
+        <member name="F:DevExpress.Diagram.Core.DiagramCommandsBase.FitToDrawingCommand">
+            <summary>
+                <para> </para>
+            </summary>
+            <returns> </returns>
+
+
+        </member>
+        <member name="F:DevExpress.Diagram.Core.DiagramCommandsBase.FitToPageCommand">
+            <summary>
+                <para> </para>
+            </summary>
+            <returns> </returns>
+
+
+        </member>
+        <member name="F:DevExpress.Diagram.Core.DiagramCommandsBase.FitToWidthCommand">
+            <summary>
+                <para> </para>
+            </summary>
+            <returns> </returns>
+
+
+        </member>
+        <member name="F:DevExpress.Diagram.Core.DiagramCommandsBase.FocusNextControlCommand">
+            <summary>
+                <para> </para>
+            </summary>
+            <returns> </returns>
+
+
+        </member>
+        <member name="F:DevExpress.Diagram.Core.DiagramCommandsBase.FocusPrevControlCommand">
+            <summary>
+                <para> </para>
+            </summary>
+            <returns> </returns>
+
+
+        </member>
+        <member name="M:DevExpress.Diagram.Core.DiagramCommandsBase.GetKeyDownCommand(System.Windows.Input.Key,System.Windows.Input.ModifierKeys)">
+            <summary>
+                <para> </para>
+            </summary>
+            <param name="key">
+		 
+            </param>
+            <param name="modifers">
+		 
+            </param>
+            <returns> </returns>
+
+
+        </member>
+        <member name="M:DevExpress.Diagram.Core.DiagramCommandsBase.GetKeyUpCommand(System.Windows.Input.Key,System.Windows.Input.ModifierKeys)">
+            <summary>
+                <para> </para>
+            </summary>
+            <param name="key">
+		 
+            </param>
+            <param name="modifers">
+		 
+            </param>
+            <returns> </returns>
+
+
+        </member>
+        <member name="F:DevExpress.Diagram.Core.DiagramCommandsBase.IncreaseFontSizeCommand">
+            <summary>
+                <para>Increase the font size for the text within the selected diagram items.
+</para>
+            </summary>
+            <returns> </returns>
+
+
+        </member>
+        <member name="F:DevExpress.Diagram.Core.DiagramCommandsBase.MoveSelectionCommand">
+            <summary>
+                <para>Move the selected diagram items the specified distance from its current position in the specified direction.
+</para>
+            </summary>
+            <returns> </returns>
+
+
+        </member>
+        <member name="F:DevExpress.Diagram.Core.DiagramCommandsBase.MoveSelectionNoSnapCommand">
+            <summary>
+                <para>Move the selected diagram items the specified distance from its current position in the specified direction without snapping them to the grid.
+</para>
+            </summary>
+            <returns> </returns>
+
+
+        </member>
+        <member name="F:DevExpress.Diagram.Core.DiagramCommandsBase.NewFileCommand">
+            <summary>
+                <para> </para>
+            </summary>
+            <returns> </returns>
+
+
+        </member>
+        <member name="F:DevExpress.Diagram.Core.DiagramCommandsBase.OpenFileCommand">
+            <summary>
+                <para>Invoke the Open File dialog window.
+</para>
+            </summary>
+            <returns> </returns>
+
+
+        </member>
+        <member name="F:DevExpress.Diagram.Core.DiagramCommandsBase.PasteCommand">
+            <summary>
+                <para>Paste the clipboard content.
+</para>
+            </summary>
+            <returns> </returns>
+
+
+        </member>
+        <member name="F:DevExpress.Diagram.Core.DiagramCommandsBase.PrintCommand">
+            <summary>
+                <para>Invoke the Print dialog window.
+</para>
+            </summary>
+            <returns> </returns>
+
+
+        </member>
+        <member name="F:DevExpress.Diagram.Core.DiagramCommandsBase.QuickPrintCommand">
+            <summary>
+                <para>Print the diagram with default print settings.
+</para>
+            </summary>
+            <returns> </returns>
+
+
+        </member>
+        <member name="F:DevExpress.Diagram.Core.DiagramCommandsBase.RedoCommand">
+            <summary>
+                <para>Reapply the last action that was undone in the diagram control.
+</para>
+            </summary>
+            <returns> </returns>
+
+
+        </member>
+        <member name="M:DevExpress.Diagram.Core.DiagramCommandsBase.RegisterHandlers(System.Action`1,System.Boolean)">
+            <summary>
+                <para> </para>
+            </summary>
+            <param name="registerHandlers">
+		 
+            </param>
+            <param name="updateCommandsOnRequerySuggested">
+		 
+            </param>
+            <returns> </returns>
+
+
+        </member>
+        <member name="F:DevExpress.Diagram.Core.DiagramCommandsBase.SaveFileAsCommand">
+            <summary>
+                <para>Invoke the Save File As dialog window.
+</para>
+            </summary>
+            <returns> </returns>
+
+
+        </member>
+        <member name="F:DevExpress.Diagram.Core.DiagramCommandsBase.SaveFileCommand">
+            <summary>
+                <para>Save changes made to the diagram. If the diagram has not been saved to a file before, the Save File As dialog window is invoked.
+</para>
+            </summary>
+            <returns> </returns>
+
+
+        </member>
+        <member name="F:DevExpress.Diagram.Core.DiagramCommandsBase.SelectAllCommand">
+            <summary>
+                <para>Select all items within the diagram.
+</para>
+            </summary>
+            <returns> </returns>
+
+
+        </member>
+        <member name="P:DevExpress.Diagram.Core.DiagramCommandsBase.SelectionCommands">
+            <summary>
+                <para> </para>
+            </summary>
+            <value> </value>
+
+
+        </member>
+        <member name="F:DevExpress.Diagram.Core.DiagramCommandsBase.SelectNextItemCommand">
+            <summary>
+                <para>Select the next diagram item in the order they were added to the diagram.
+
+</para>
+            </summary>
+            <returns> </returns>
+
+
+        </member>
+        <member name="F:DevExpress.Diagram.Core.DiagramCommandsBase.SelectPrevItemCommand">
+            <summary>
+                <para>Select the previous diagram item in the order they were added to the diagram.
+
+</para>
+            </summary>
+            <returns> </returns>
+
+
+        </member>
+        <member name="F:DevExpress.Diagram.Core.DiagramCommandsBase.SelectToolCommand">
+            <summary>
+                <para>Select the specified diagram tool.
+</para>
+            </summary>
+            <returns> </returns>
+
+
+        </member>
+        <member name="F:DevExpress.Diagram.Core.DiagramCommandsBase.SendBackwardCommand">
+            <summary>
+                <para>Send the selected shapes backward.
+</para>
+            </summary>
+            <returns> </returns>
+
+
+        </member>
+        <member name="F:DevExpress.Diagram.Core.DiagramCommandsBase.SendToBackCommand">
+            <summary>
+                <para>Send the selected shapes to the back.
+</para>
+            </summary>
+            <returns> </returns>
+
+
+        </member>
+        <member name="F:DevExpress.Diagram.Core.DiagramCommandsBase.SetHorizontalAlignmentCommand">
+            <summary>
+                <para>Set the horizontal alignment of the text within the selected shapes.
+</para>
+            </summary>
+            <returns> </returns>
+
+
+        </member>
+        <member name="F:DevExpress.Diagram.Core.DiagramCommandsBase.SetPageParametersCommand">
+            <summary>
+                <para>Invoke the <b>Page Setup</b> dialog window.
+</para>
+            </summary>
+            <returns> </returns>
+
+
+        </member>
+        <member name="F:DevExpress.Diagram.Core.DiagramCommandsBase.SetVerticalAlignmentCommand">
+            <summary>
+                <para>Set the vertical alignment of the text within the selected shapes.
+</para>
+            </summary>
+            <returns> </returns>
+
+
+        </member>
+        <member name="F:DevExpress.Diagram.Core.DiagramCommandsBase.SetZoomCommand">
+            <summary>
+                <para> </para>
+            </summary>
+            <returns> </returns>
+
+
+        </member>
+        <member name="F:DevExpress.Diagram.Core.DiagramCommandsBase.ShowPopupMenuCommand">
+            <summary>
+                <para> </para>
+            </summary>
+            <returns> </returns>
+
+
+        </member>
+        <member name="F:DevExpress.Diagram.Core.DiagramCommandsBase.ShowPropertiesPanelCommand">
+            <summary>
+                <para>Invoke the 'Properties' panel.
+</para>
+            </summary>
+            <returns> </returns>
+
+
+        </member>
+        <member name="F:DevExpress.Diagram.Core.DiagramCommandsBase.StartDragToolAlternateCommand">
+            <summary>
+                <para> </para>
+            </summary>
+            <returns> </returns>
+
+
+        </member>
+        <member name="F:DevExpress.Diagram.Core.DiagramCommandsBase.StartDragToolCommand">
+            <summary>
+                <para> </para>
+            </summary>
+            <returns> </returns>
+
+
+        </member>
+        <member name="F:DevExpress.Diagram.Core.DiagramCommandsBase.SugiyamaLayoutCommand">
+            <summary>
+                <para>Realign diagram items according to the layered graph drawing (Sugiyama-style graph drawing) algorithm.
+</para>
+            </summary>
+            <returns> </returns>
+
+
+        </member>
+        <member name="F:DevExpress.Diagram.Core.DiagramCommandsBase.ToggleFontBoldCommand">
+            <summary>
+                <para>Toggle bold font for the text within the selected shapes.
+
+</para>
+            </summary>
+            <returns> </returns>
+
+
+        </member>
+        <member name="F:DevExpress.Diagram.Core.DiagramCommandsBase.ToggleFontItalicCommand">
+            <summary>
+                <para>Toggle italic font for the text within the selected shapes.
+
+</para>
+            </summary>
+            <returns> </returns>
+
+
+        </member>
+        <member name="F:DevExpress.Diagram.Core.DiagramCommandsBase.ToggleFontStrikethroughCommand">
+            <summary>
+                <para>Toggle strikethrough for the text within the selected shapes.
+
+</para>
+            </summary>
+            <returns> </returns>
+
+
+        </member>
+        <member name="F:DevExpress.Diagram.Core.DiagramCommandsBase.ToggleFontUnderlineCommand">
+            <summary>
+                <para>Toggle underline for the text within the selected shapes.
+
+</para>
+            </summary>
+            <returns> </returns>
+
+
+        </member>
+        <member name="F:DevExpress.Diagram.Core.DiagramCommandsBase.TreeLayoutCommand">
+            <summary>
+                <para>Realign diagram items to form a tree diagram.
+</para>
+            </summary>
+            <returns> </returns>
+
+
+        </member>
+        <member name="F:DevExpress.Diagram.Core.DiagramCommandsBase.UndoCommand">
+            <summary>
+                <para>Cancel changes resulting from the last operation.
+
+</para>
+            </summary>
+            <returns> </returns>
+
+
+        </member>
+        <member name="P:DevExpress.Diagram.Core.DiagramCommandsBase.UndoRedoCommands">
+            <summary>
+                <para> </para>
+            </summary>
+            <value> </value>
+
+
+        </member>
+        <member name="M:DevExpress.Diagram.Core.DiagramCommandsBase.UpdateCommands(System.Collections.Generic.IEnumerable`1)">
+            <summary>
+                <para> </para>
+            </summary>
+            <param name="commands">
+		 
+            </param>
+
+
+        </member>
+        <member name="F:DevExpress.Diagram.Core.DiagramCommandsBase.UseToolCommand">
+            <summary>
+                <para>Use the currently selected diagram tool.
+</para>
+            </summary>
+            <returns> </returns>
+
+
+        </member>
+        <member name="P:DevExpress.Diagram.Core.DiagramCommandsBase.ZoomCommands">
+            <summary>
+                <para> </para>
+            </summary>
+            <value> </value>
+
+
+        </member>
+        <member name="F:DevExpress.Diagram.Core.DiagramCommandsBase.ZoomInCommand">
+            <summary>
+                <para>Increase the current zoom factor of a diagram.
+</para>
+            </summary>
+            <returns> </returns>
+
+
+        </member>
+        <member name="F:DevExpress.Diagram.Core.DiagramCommandsBase.ZoomOutCommand">
+            <summary>
+                <para>Decrease the current zoom factor of a diagram.
+</para>
+            </summary>
+            <returns>
+</returns>
+
+
+        </member>
+        <member name="T:DevExpress.Diagram.Core.PropertiesPanelVisibility">
+
+            <summary>
+                <para>Lists the values used to specify the Properties panel display mode.
+
+</para>
+            </summary>
+
+        </member>
+        <member name="F:DevExpress.Diagram.Core.PropertiesPanelVisibility.Closed">
+            <summary>
+                <para>The Properties panel is closed.
+</para>
+            </summary>
+
+
+        </member>
+        <member name="F:DevExpress.Diagram.Core.PropertiesPanelVisibility.Collapsed">
+            <summary>
+                <para>The Properties panel is hidden and can be invoked by the end-user by hovering the Properties tab.
+</para>
+            </summary>
+
+
+        </member>
+        <member name="F:DevExpress.Diagram.Core.PropertiesPanelVisibility.Visible">
+            <summary>
+                <para>The Properties panel is fully expanded.
+</para>
+            </summary>
+
+
+        </member>
+        <member name="T:DevExpress.Diagram.Core.MeasureUnit">
+
+            <summary>
+                <para> </para>
+            </summary>
+
+        </member>
+        <member name="M:DevExpress.Diagram.Core.MeasureUnit.#ctor(System.Double,System.Int32,System.String,DevExpress.Diagram.Core.TickStepsData[])">
+            <summary>
+                <para> </para>
+            </summary>
+            <param name="dpi">
+		 
+            </param>
+            <param name="multiplier">
+		 
+            </param>
+            <param name="name">
+		 
+            </param>
+            <param name="stepsData">
+		 
+            </param>
+
+
+        </member>
+        <member name="F:DevExpress.Diagram.Core.MeasureUnit.Dpi">
+            <summary>
+                <para> </para>
+            </summary>
+            <returns> </returns>
+
+
+        </member>
+        <member name="F:DevExpress.Diagram.Core.MeasureUnit.Multiplier">
+            <summary>
+                <para> </para>
+            </summary>
+            <returns> </returns>
+
+
+        </member>
+        <member name="F:DevExpress.Diagram.Core.MeasureUnit.Name">
+            <summary>
+                <para> </para>
+            </summary>
+            <returns> </returns>
+
+
+        </member>
+        <member name="F:DevExpress.Diagram.Core.MeasureUnit.StepsData">
+            <summary>
+                <para> </para>
+            </summary>
+            <returns> </returns>
+
+
+        </member>
+        <member name="M:DevExpress.Diagram.Core.MeasureUnit.ToString">
+            <summary>
+                <para> </para>
+            </summary>
+            <returns> </returns>
+
+
+        </member>
+        <member name="T:DevExpress.Diagram.Core.CanvasSizeMode">
+
+            <summary>
+                <para>Lists the values used to specify whether the canvas size is automatically changed to fit the current shapes layout.
+</para>
+            </summary>
+
+        </member>
+        <member name="F:DevExpress.Diagram.Core.CanvasSizeMode.AutoSize">
+            <summary>
+                <para>The canvas is automatically resized to fit the current shapes layout.
+</para>
+            </summary>
+
+
+        </member>
+        <member name="F:DevExpress.Diagram.Core.CanvasSizeMode.Fill">
+            <summary>
+                <para>The canvas fills the entire visible area.
+</para>
+            </summary>
+
+
+        </member>
+        <member name="F:DevExpress.Diagram.Core.CanvasSizeMode.None">
+            <summary>
+                <para>The canvas size does not change on moving shapes outside of it.
+</para>
+            </summary>
+
+
+        </member>
+        <member name="T:DevExpress.Diagram.Core.DiagramTool">
+
+            <summary>
+                <para>The base class for classes that represent diagram tools.
+</para>
+            </summary>
+
+        </member>
+        <member name="M:DevExpress.Diagram.Core.DiagramTool.CreateActiveInputState(DevExpress.Diagram.Core.IDiagramControl,DevExpress.Diagram.Core.Native.IInputElement,DevExpress.Diagram.Core.Native.IMouseButtonArgs)">
+            <summary>
+                <para> </para>
+            </summary>
+            <param name="diagram">
+		 
+            </param>
+            <param name="item">
+		 
+            </param>
+            <param name="mouseArgs">
+		 
+            </param>
+            <returns> </returns>
+
+
+        </member>
+        <member name="M:DevExpress.Diagram.Core.DiagramTool.CreateFeedbackHelper(DevExpress.Diagram.Core.IDiagramControl)">
+            <summary>
+                <para> </para>
+            </summary>
+            <param name="diagram">
+		 
+            </param>
+            <returns> </returns>
+
+
+        </member>
+        <member name="M:DevExpress.Diagram.Core.DiagramTool.DefaultAction(DevExpress.Diagram.Core.IDiagramControl)">
+            <summary>
+                <para> </para>
+            </summary>
+            <param name="diagram">
+		 
+            </param>
+
+
+        </member>
+        <member name="M:DevExpress.Diagram.Core.DiagramTool.GetDefaultInputStateCursor(DevExpress.Diagram.Core.IDiagramControl,DevExpress.Diagram.Core.Native.IInputElement,DevExpress.Diagram.Core.Native.IMouseArgs)">
+            <summary>
+                <para> </para>
+            </summary>
+            <param name="diagram">
+		 
+            </param>
+            <param name="item">
+		 
+            </param>
+            <param name="mouseArgs">
+		 
+            </param>
+            <returns> </returns>
+
+
+        </member>
+        <member name="P:DevExpress.Diagram.Core.DiagramTool.ShowFullSelectionUI">
+            <summary>
+                <para> </para>
+            </summary>
+            <value> </value>
+
+
+        </member>
+        <member name="M:DevExpress.Diagram.Core.DiagramTool.StartDrag(DevExpress.Diagram.Core.Native.InputState,DevExpress.Diagram.Core.IDiagramControl,DevExpress.Diagram.Core.Native.IMouseArgs,DevExpress.Diagram.Core.MouseButtonKind)">
+            <summary>
+                <para> </para>
+            </summary>
+            <param name="state">
+		 
+            </param>
+            <param name="diagram">
+		 
+            </param>
+            <param name="args">
+		 
+            </param>
+            <param name="button">
+		 
+            </param>
+            <returns> </returns>
+
+
+        </member>
+        <member name="P:DevExpress.Diagram.Core.DiagramTool.ToolId">
+            <summary>
+                <para> </para>
+            </summary>
+            <value> </value>
+
+
+        </member>
+        <member name="P:DevExpress.Diagram.Core.DiagramTool.ToolName">
+            <summary>
+                <para> </para>
+            </summary>
+            <value> </value>
+
+
+        </member>
+        <member name="M:DevExpress.Diagram.Core.DiagramTool.ToString">
+            <summary>
+                <para>Returns a string representation of the diagram tool.
+</para>
+            </summary>
+            <returns>A <see cref="T:System.String"/> that represents the current DiagramTool object.
+</returns>
+
+
+        </member>
+        <member name="T:DevExpress.Diagram.Core.ToolboxVisibility">
+
+            <summary>
+                <para>Lists the values used to specify the Shapes panel display mode.
+</para>
+            </summary>
+
+        </member>
+        <member name="F:DevExpress.Diagram.Core.ToolboxVisibility.Closed">
+            <summary>
+                <para>The Shapes panel is hidden.
+</para>
+            </summary>
+
+
+        </member>
+        <member name="F:DevExpress.Diagram.Core.ToolboxVisibility.Compact">
+            <summary>
+                <para>The Shapes panel is in the compact mode.
+</para>
+            </summary>
+
+
+        </member>
+        <member name="F:DevExpress.Diagram.Core.ToolboxVisibility.Full">
+            <summary>
+                <para>The Shapes panel is fully expanded.
+</para>
+            </summary>
+
+
+        </member>
+        <member name="T:DevExpress.Diagram.Core.Direction">
+
+            <summary>
+                <para>Specifies the flow direction for diagram items when laying out shapes automatically.
+</para>
+            </summary>
+
+        </member>
+        <member name="F:DevExpress.Diagram.Core.Direction.Down">
+            <summary>
+                <para>The flow direction is top to bottom.
+</para>
+            </summary>
+
+
+        </member>
+        <member name="F:DevExpress.Diagram.Core.Direction.Left">
+            <summary>
+                <para>The flow direction is right to left.
+</para>
+            </summary>
+
+
+        </member>
+        <member name="F:DevExpress.Diagram.Core.Direction.Right">
+            <summary>
+                <para>The flow direction is left to right.
+</para>
+            </summary>
+
+
+        </member>
+        <member name="F:DevExpress.Diagram.Core.Direction.Up">
+            <summary>
+                <para>The flow direction is bottom to top.
+</para>
+            </summary>
+
+
+        </member>
+        <member name="T:DevExpress.Diagram.Core.MeasureUnits">
+
+            <summary>
+                <para> </para>
+            </summary>
+
+        </member>
+        <member name="M:DevExpress.Diagram.Core.MeasureUnits.FromPixels(DevExpress.Diagram.Core.MeasureUnit,System.Double)">
+            <summary>
+                <para> </para>
+            </summary>
+            <param name="unit">
+		 
+            </param>
+            <param name="value">
+		 
+            </param>
+            <returns> </returns>
+
+
+        </member>
+        <member name="F:DevExpress.Diagram.Core.MeasureUnits.Inches">
+            <summary>
+                <para> </para>
+            </summary>
+            <returns> </returns>
+
+
+        </member>
+        <member name="F:DevExpress.Diagram.Core.MeasureUnits.Millimeters">
+            <summary>
+                <para> </para>
+            </summary>
+            <returns> </returns>
+
+
+        </member>
+        <member name="F:DevExpress.Diagram.Core.MeasureUnits.Pixels">
+            <summary>
+                <para> </para>
+            </summary>
+            <returns> </returns>
+
+
+        </member>
+        <member name="M:DevExpress.Diagram.Core.MeasureUnits.ToPixels(DevExpress.Diagram.Core.MeasureUnit,System.Double)">
+            <summary>
+                <para> </para>
+            </summary>
+            <param name="unit">
+		 
+            </param>
+            <param name="value">
+		 
+            </param>
+            <returns> </returns>
+
+
+        </member>
+    </members>
+</doc>
